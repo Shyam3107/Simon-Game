@@ -1,0 +1,45 @@
+body{
+  background-color: #283149;
+  text-align: center;
+}
+.intro
+{
+  font-family:"Arial";
+  color: gold;
+  margin-bottom: 100px;
+}
+h1
+{
+  font-size: 4rem;
+}
+.block
+{
+  height : 200px;
+  width : 200px;
+  margin: 10px;
+  border-radius: 10%;
+  border: 5px solid black;
+}
+.yellow
+{
+  background-color: yellow;
+}
+.red
+{
+  background-color: red;
+}
+.blue
+{
+  background-color: blue;
+}
+.green
+{
+  background-color: green;
+}
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.game-over{
+  background-color: red;
+}
